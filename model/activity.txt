@@ -1,3 +1,5 @@
 ====== Activity ======
 
-An Activity represents an "idea" or an "inspiration" of what a user could do/schedule/promote in order to improve/maintain his health
+An Activity represents an "idea" or an "inspiration" of what a user could do/schedule/promote in order to improve/maintain his health:
+
+{{url>https://cimaster.youpers.com/api-docs/activities}}
