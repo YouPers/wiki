@@ -2,11 +2,11 @@
 
 Die Homepage ist der Haupteintrittspunkt für Leute, die via Internet den allerersten Kontakt zu YouPers herstellen. Die Homepage dient nebst der üblichen Informationsvermittlung (About Us, Unternehmensphilosophie, usw.) folgenden Aspekten:
 
-  * Übersicht über [[service|Serviceangebot]] und deren Preise
-  * Übersicht der [[gesundheitsthema|Gesundheitsthemen]]
-  * Übersicht der [[zielgruppen|Zielgruppen]]
+  * Übersicht über [[terms_and_definitions:service|Serviceangebot]] und deren Preise
+  * Übersicht der [[terms_and_definitions:gesundheitsthema|Gesundheitsthemen]]
+  * Übersicht der [[terms_and_definitions:zielgruppen|Zielgruppen]]
   * Link zum eShop
-  * Anmeldung auf die YouPers-[[plattform|Plattform]]
+  * Anmeldung auf die YouPers-[[terms_and_definitions:plattform|Plattform]]
   * Gesundheitsinhalte, die für gute Suchmaschinenergebnisse sorgen. Diese Gesundheitsinhalte sind Subsets von den Inhalten, die dann nach Einstieg auf die Plattform in vollem Umfang den angemeldeten Usern zur Verfügung stehen.
 
 

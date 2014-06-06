@@ -1,6 +1,6 @@
 ====== Applikationen ======
 
-Wie weiter oben beschrieben, bilden Applikationen den Hauptbestandteil unserer [[:service|Services]]. Aus heutiger Sicht gibt es folgende Applikationen:
+Wie weiter oben beschrieben, bilden Applikationen den Hauptbestandteil unserer [[service|Services]]. Aus heutiger Sicht gibt es folgende Applikationen:
 
 ===== Backend =====
 

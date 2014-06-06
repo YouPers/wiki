@@ -1,3 +1,6 @@
 ====== YouPers Documentation site ======
 
 Youpers Plattform Documentation
+
+  * [[terms_and_definitions:index|Terms and Definitions]]
+  * [[model:index|API Object Model]]
