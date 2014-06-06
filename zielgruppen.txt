@@ -1,6 +1,6 @@
 ====== Zielgruppen ======
 
-Für jeden [[service|Service]] werden eine oder mehrere Zielgruppen definiert, die mit dem Service ein bestimmtes Bedürfnis abdecken möchten. Wichtig ist, möglichst alle Zielgruppen eindeutig zu definieren und zu umschreiben. So hat der Service “Gesundheitskampagnen für Betriebe mindestens zwei Zielgruppen:
+Für jeden [[terms_and_definitions:service|Service]] werden eine oder mehrere Zielgruppen definiert, die mit dem Service ein bestimmtes Bedürfnis abdecken möchten. Wichtig ist, möglichst alle Zielgruppen eindeutig zu definieren und zu umschreiben. So hat der Service “Gesundheitskampagnen für Betriebe mindestens zwei Zielgruppen:
 
   * Gesundheitsverantwortliche eines Unternehmens/Betriebes
   * Angestellte des Unternehmens/Betriebes

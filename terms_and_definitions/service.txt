@@ -26,7 +26,7 @@ Die Hauptbestandteile von YouPers Services sind Applikationen. Ein Service als G
 ===== Service Scope =====
 
 Die Services werden so “geschnitten”, dass
-  * eine oder mehrere [[zielgruppen|Zielgruppen]] möglichst klar und eindeutig angesprochen werden können.
+  * eine oder mehrere [[:zielgruppen|Zielgruppen]] möglichst klar und eindeutig angesprochen werden können.
   * der Funktionsumfang eines Services möglichst präzise und umfassend ein bestimmtes Bedürfnis einer Zielgruppe abdeckt.
   * ein oder mehrere Gesundheitsthemen (siehe weiter unten) umfassend abgedeckt ist.
 
