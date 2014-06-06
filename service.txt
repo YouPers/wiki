@@ -1,0 +1,51 @@
+====== Service ======
+
+Unser Angebot besteht aus Services und nicht aus Produkten, weil im Unterschied zu einem Produkt bei einem Service eine zu einem bestimmten Zeitpunkt oder für eine bestimmte Zeitdauer erbrachte immaterielle Leistung im Vordergrund steht.
+
+Unsere Kunden beziehen Services, um ihre Bedürfnisse abzudecken und je nach Offering bezahlen sie für einen solchen Service. Beispielsweise können Unternehmen für einen bestimmten Service bezahlen, der dann den Angestellten des Unternehmens kostenlos zur Verfügung gestellt wird.
+
+Sollten wir irgendwann materielle Produkte, wie z.B. Schrittzähler, Sensoren, Mermaids, usw. anbieten, werden wir den Begriff Produkt entsprechend einführen, definieren und einsetzen. Vorerst verzichten wir bewusst auf den Begriff “Produkt”, um Zweideutigkeiten und Missverständnisse zu vermeiden.
+
+Die Benutzung des Begriffs “Service” hat u.a. folgende Konsequenzen:
+
+  * <del>Product Roadmap</del> > Service Roadmap
+  * <del>Product Owner</del> > Service Owner
+  * <del>Product Design</del> > Servie Design
+  * usw.
+
+
+Die Hauptbestandteile von YouPers Services sind Applikationen. Ein Service als Ganzes umfasst aber neben den Applikationen auch eine ganze Reihe von anderen Elementen, von denen der Erfolg eines Services abhängt:
+
+  * Onboarding Support für Nutzer des Services
+  * spezielle Dienstleistungen, wie z.B. YouPers Moderatoren für Gesundheitskampagnen
+  * Service Fakturierung
+  * Service Reporting für Kunden
+  * Service Support (Desk, usw.)
+  * andere
+
+===== Service Scope =====
+
+Die Services werden so “geschnitten”, dass
+  * eine oder mehrere [[zielgruppen|Zielgruppen]] möglichst klar und eindeutig angesprochen werden können.
+  * der Funktionsumfang eines Services möglichst präzise und umfassend ein bestimmtes Bedürfnis einer Zielgruppe abdeckt.
+  * ein oder mehrere Gesundheitsthemen (siehe weiter unten) umfassend abgedeckt ist.
+
+<WRAP center round tip 60%>
+Beispiel
+
+Der Service “Gesundheitskampagnen für Betriebe” deckt alle Aspekte und Funktionen ab, die notwendig sind, damit ein Gesundheitsverantwortlicher eines Betriebes (Zielgruppe) erfolgreich Gesundheitskampagnen mit Angestellten (Zielgruppe) zum Gesundheitsthema “Stress Management” durchführen kann.
+</WRAP>
+
+Zu einem späteren Zeitpunkt sind aber auch Services denkbar, die nur eine bestimmte Funktion abdecken, diese dafür möglichst gut über verschiedenste Gesundheitsbereiche, Zielgruppen und Gesundheitsthemen hinweg.
+
+<WRAP center round tip 60%>
+Beispiel
+
+Mit dem Service Gesundheitstagebuch hat eine Person auf sämtliche Tagebuch-Einträge Zugriff, die durch die Benutzung verschiedenster Services entstanden sind.
+
+</WRAP>
+
+
+===== grafischer Überblick =====
+
+{{:service_design:service_design.png?300|}}

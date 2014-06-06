@@ -1,0 +1,34 @@
+====== Features ======
+
+Sowohl für [[service|Services]] als auch für die [[applikationen|Applikationen]] ist es wichtig, die essentiellen Features präzis zu beschreiben. Diese Featurebeschreibungen sind wichtig für
+
+  * die Vermarktung und Bepreisung der Services
+  * das Hervorheben der YouPers Alleinstellungsmerkmale (USP)
+  * das Festlegen, wo die funktionalen Grenzen eines Services sind (im Scope, out of Scope)
+
+===== Beispiele =====
+
+auf Stufe Service
+  * Digitales Kampagnenmanagement (DCM) für den BGM-Verantwortlichen mit folgenden Features
+     * Feature 1
+     * Feature 2
+     * …
+  * persönlicher digitaler Health Coach (DHC) in der Gesundheitskampagne mit folgenden Features
+     * Feature 1
+     * Feature 2
+     * …
+
+auf Stufe [[plattform|Plattform]]
+  * verschlüsseltes Übertragen von Daten zwischen Browser, mobiler App und der YouPers Plattform
+  * ein Benutzer-Konto für alle Services und Applikationen auf der (gleichen) Plattform
+  * ...
+
+auf Stufe Applikation
+  * automatisches Erhalten von Push-Meldungen für xy
+  * Feature 2
+  * …
+
+
+===== grafischer Überblick =====
+
+{{:service_design:service_design.png?300|}}

@@ -1,0 +1,22 @@
+====== Gesundheitsthema ======
+
+Ein Gesundheitsthema ist ein Bedürfnis/Problem/Topic, das ein Nutzer mit einem von uns zur Verfügung gestellten Service abdecken/lösen/”bearbeiten” möchte.
+
+  * Stress Management
+  * Ernährung
+  * Fitness
+  * Diabetes
+  * Altersdemenz
+  * Betreuung (Gesundheitsthema) älterer noch im eigenen Haushalt lebenden Leute ([[zielgruppen|Zielgruppe]])
+
+Wie am Beispiel “Gesundheitskampagnen für Betriebe” können mehrere Gesundheitsthemen für eine Zielgruppe (Angestellte eines Betriebes) durch den gleichen Service abgedeckt werden:
+
+  * Stress Management
+  * Ernährung
+  * Fitness
+  * Gesundheit am Arbeitsplatz
+
+
+===== grafischer Überblick =====
+
+{{:service_design:service_design.png?300|}}

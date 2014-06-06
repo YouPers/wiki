@@ -1,0 +1,28 @@
+====== Zielgruppen ======
+
+Für jeden [[service|Service]] werden eine oder mehrere Zielgruppen definiert, die mit dem Service ein bestimmtes Bedürfnis abdecken möchten. Wichtig ist, möglichst alle Zielgruppen eindeutig zu definieren und zu umschreiben. So hat der Service “Gesundheitskampagnen für Betriebe mindestens zwei Zielgruppen:
+
+  * Gesundheitsverantwortliche eines Unternehmens/Betriebes
+  * Angestellte des Unternehmens/Betriebes
+
+Zielgruppen werden dann idealerweise durch verschiedene Personas charakterisiert:
+
+  * Angestellter mit Familie, deren Kinder im schulpflichtigen Alter sind und …
+  * Single kurz vor Pensionierung, der/die …
+  * Alleinerziehende, Teilzeit arbeitende Mutter, die …
+  * usw.
+
+  * Hauptberuflicher Gesundheitsverantwortlicher eines Grossbetriebes, der...
+  * Personalverantwortlicher eines Betriebes mit 50 Angestellten, der nebenbei auch für die betriebliche Gesundheit verantwortlich ist und ...
+ 
+Schon die Definition der “grob” umrissenen Zielgruppen wirft Fragen auf:
+
+<WRAP center round important 60%>
+Muss für Personen, die nur eine bestimmte “Nebenrolle” im Service spielen, auch eine Zielgruppe definiert werden? Beispiel: Organisationsadministrator im Service “Gesundheitskampagnen für Betriebe”.
+
+</WRAP>
+
+
+===== grafischer Überblick =====
+
+{{:service_design:service_design.png?300|}}

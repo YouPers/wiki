@@ -1,0 +1,28 @@
+====== Applikationen ======
+
+Wie weiter oben beschrieben, bilden Applikationen den Hauptbestandteil unserer [[service|Services]]. Aus heutiger Sicht gibt es folgende Applikationen:
+
+===== Backend =====
+
+Das Backend stellt unsere zentrale Funktionalität für die verschiedenen Client Applikationen zur Verfügung. Zum jetzigen Zeitpunkt ist nur ein Backend für sämtliche Services vorgesehen.
+
+===== Web Client =====
+
+Je Service gibt es eine browser-basierte Applikation, die über verschiedene Geräte (Desktops, Tablets, Smartphones) auf die Funktionalität des Backends zugreift.
+
+===== mobile App =====
+
+Zum jetzigen Zeitpunkt je Service je eine App für iOS und Android, welche ebenfalls die Funktionalität des Backends nutzen, die aber je nach Bedarf auch Funktionalitäten anbieten, die über die Web Clients hinausgehen (z.B. Geolocation, Sensorik, usw.)
+
+Folglich gehört - mit Ausnahme des Backends - eine Applikation immer nur zu einem bestimmten Service.
+
+Weil wir auch für Applikationen nicht den Begriff “Produkt” verwenden, hat auch dies Konsequenzen. Wir sprechen von:
+
+  * Applikationsplanung, Applikationsbacklog
+  * Applikationsfeatures
+  * Applikation Owner
+
+
+===== grafischer Überblick =====
+
+{{:service_design:service_design.png?300|}}
