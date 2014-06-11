@@ -1,6 +1,6 @@
 ====== Features ======
 
-Sowohl für [[:service|Services]] als auch für die [[terms_and_definitions:applikationen|Applikationen]] ist es wichtig, die essentiellen Features präzis zu beschreiben. Diese Featurebeschreibungen sind wichtig für
+Sowohl für [[service|Services]] als auch für die [[terms_and_definitions:applikationen|Applikationen]] ist es wichtig, die essentiellen Features präzis zu beschreiben. Diese Featurebeschreibungen sind wichtig für
 
   * die Vermarktung und Bepreisung der Services
   * das Hervorheben der YouPers Alleinstellungsmerkmale (USP)
@@ -18,7 +18,7 @@ auf Stufe Service
      * Feature 2
      * …
 
-auf Stufe [[:plattform|Plattform]]
+auf Stufe [[plattform|Plattform]]
   * verschlüsseltes Übertragen von Daten zwischen Browser, mobiler App und der YouPers Plattform
   * ein Benutzer-Konto für alle Services und Applikationen auf der (gleichen) Plattform
   * ...
