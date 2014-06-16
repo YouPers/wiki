@@ -56,17 +56,29 @@ The informal caregiver and the caretaker share a restricted space to exchange an
 ==== Examples within a restricted space ====
 
 
-  * If user A accepts an invitation for a group activity from user B, all actions and objects related to this group activity occur/are in the confidential space belonging to this group activity (which in this case is the context for this confidential space). Both users need to know (e.g. by means of visual clues/hints) that they are in the confidential space belonging to this group activity.
+<WRAP center round box 80%>
+If user A accepts an invitation for a group activity from user B, all actions and objects related to this group activity occur/are in the confidential space belonging to this group activity (which in this case is the context for this confidential space). Both users need to know (e.g. by means of visual clues/hints) that they are in the confidential space belonging to this group activity.
 
-  * If I share parts of my diary with my doctor, then this confidential space consists of
-    * the shared parts of the diary
-    * the actions the doctor and I can do with this shared parts of the diary.
+</WRAP>
 
+<WRAP center round box 80%>
+If I share parts of my diary with my doctor, then this confidential space consists of
+  * the shared parts of the diary
+  * the actions the doctor and I can do with this shared parts of the diary.
 In this case the shared parts of the diary are the context for this confidential space.
 
-  * If I share my YouPers account (or parts of) with my life partner, then again all shared parts as well as the actions belonging to these shared parts belong to this confidential space.
+</WRAP>
 
-  * If a caretaker and his informal caregiver (e.g. in Inspiration) share objects such as food recommendations, activity lists, location data of the caretaker, then all these objects and the actions belonging to them are in this confidential space.
+
+<WRAP center round box 80%>
+If I share my YouPers account (or parts of) with my life partner, then again all shared parts as well as the actions belonging to these shared parts belong to this confidential space.
+
+</WRAP>
+
+<WRAP center round box 80%>
+If a caretaker and his informal caregiver (e.g. in Inspiration) share objects such as food recommendations, activity lists, location data of the caretaker, then all these objects and the actions belonging to them are in this confidential space.
+
+</WRAP>
 
 ==== Visibility within restricted spaces ====
 
