@@ -39,9 +39,9 @@ All employees who joined a campaign share this restricted space together with th
 
 All employees who joined any campaign of the same organization share this restricted space. This gives the campaign managers the possibility to share for example
 
-common recommendations for all campaigns
-common invitations to introductory events
-campaign-independent group activities
+  * common recommendations for all campaigns
+  * common invitations to introductory events
+  * campaign-independent group activities
 
 ==== Group activities ====
 
@@ -53,19 +53,20 @@ People joining the same group activity share a common restricted space where the
 
 The informal caregiver and the caretaker share a restricted space to exchange any sort of actions and information, e.g. in the context of AAL project INSPIRATION.
 
-Examples for shared actions and informations within a restricted space
+==== Examples within a restricted space ====
 
-If user A accepts an invitation for a group activity from user B, all actions and objects related to this group activity occur/are in the confidential space belonging to this group activity (which in this case is the context for this confidential space).
-Both users need to know (e.g. by means of visual clues/hints) that they are in the confidential space belonging to this group activity.
 
-If I share parts of my diary with my doctor, then this confidential space consists of
-the shared parts of the diary
-the actions the doctor and I can do with this shared parts of the diary
+  * If user A accepts an invitation for a group activity from user B, all actions and objects related to this group activity occur/are in the confidential space belonging to this group activity (which in this case is the context for this confidential space). Both users need to know (e.g. by means of visual clues/hints) that they are in the confidential space belonging to this group activity.
+
+  * If I share parts of my diary with my doctor, then this confidential space consists of
+    * the shared parts of the diary
+    * the actions the doctor and I can do with this shared parts of the diary.
+
 In this case the shared parts of the diary are the context for this confidential space.
 
-If I share my YouPers account (or parts of) with my life partner, then again all shared parts as well as the actions belonging to these shared parts belong to this confidential space.
+  * If I share my YouPers account (or parts of) with my life partner, then again all shared parts as well as the actions belonging to these shared parts belong to this confidential space.
 
-If a caretaker and his informal caregiver (e.g. in Inspiration) share objects such as food recommendations, activity lists, location data of the caretaker, then all these objects and the actions belonging to them are in this confidential space.
+  * If a caretaker and his informal caregiver (e.g. in Inspiration) share objects such as food recommendations, activity lists, location data of the caretaker, then all these objects and the actions belonging to them are in this confidential space.
 
 ==== Visibility within restricted spaces ====
 
