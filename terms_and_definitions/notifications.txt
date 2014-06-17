@@ -1,0 +1,5 @@
+====== Notifications ======
+
+Notifications are one of the [[terms_and_definitions:social_interactions|social interaction]] types supported.
+
+A notification “notifies” the [[terms_and_definitions:user|user]] that he has received a [[terms_and_definitions:messages|message]]. Thus, a notification requires the user to act upon the notification to see the message. Why not showing directly the message “behind” this notification? Whenever possible the user will see the message directly, i.e. without a notification. But there might be situations where this is not possible (e.g. when there is not enough space on the screen to show an entire message).

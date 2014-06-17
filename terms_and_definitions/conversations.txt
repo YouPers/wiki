@@ -1,0 +1,32 @@
+====== Conversations ======
+
+Conversations are one of the [[terms_and_definitions:social_interactions|social interaction]] types supported.
+
+<WRAP center round info 80%>
+A conversation is a form of interactive, spontaneous communication between two or more people who are following rules of etiquette. It is polite give and take of subjects thought of by people talking with each other for company. [[http://en.wikipedia.org/wiki/Conversation#cite_note-1|Source]]
+</WRAP>
+
+
+Based on this definition we want to give the [[terms_and_definitions:user|user]] on the one side the possibility to spontaneously start a conversation by means of [[terms_and_definitions:messages|message]] threads and on the other side to join/leave conversations by means of [[terms_and_definitions:subscriptions|subscriptions]].
+
+Examples:
+
+<WRAP center round box 80%>
+User A sends an invitation to a [[terms_and_definitions:group_activity|group activity]] to different users. User B has a question related to this invitation and starts a conversation out of this invitation with the inviter and the other invitees.
+</WRAP>
+
+<WRAP center round box 80%>
+User B makes a comment on a done group activity [[terms_and_definitions:activity_event|event]] inducing a subsequent conversation among the participants.
+</WRAP>
+
+
+<WRAP center round box 80%>
+User C makes a comment on an activity recommendation issued by the [[terms_and_definitions:campaign_manager|campaign manager]] inducing a subsequent conversation among the campaign participants.
+</WRAP>
+
+
+<WRAP center round box 80%>
+User D sends a feature request to YouPers visible to all users. Users than start commenting on this feature request.
+</WRAP>
+
+Such conversations are displayed to the involved users as a flat list showing all sent messages, i.e. as a chronological message thread.

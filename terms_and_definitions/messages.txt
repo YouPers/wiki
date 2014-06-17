@@ -1,0 +1,41 @@
+====== Messages ======
+ 
+Messages are one of the [[terms_and_definitions:social_interactions|social interaction]] types supported.
+
+We call messages all information
+
+  * sent from one user to another user
+  * sent from user to himself
+  * sent from the system to the user
+
+Examples:
+
+<WRAP center round box 80%>
+The [[terms_and_definitions:digital_health_coach|digital health coach]] displays a suggestion (a message) to the [[terms_and_definitions:user|user]], e.g. to start a [[terms_and_definitions:self_assessment|self assessment]]. The user can either ignore this recommendation or he can start a self assessment. In both cases there is no feedback sent to the digital health coach, such as a confirmation.
+</WRAP>
+
+
+<WRAP center round box 80%>
+The user plans an [[terms_and_definitions:activity|activity]] which - based on his profile settings - causes “the system” (in most cases the [[terms_and_definitions:backend|backend]]) to create a calendar invitation (a message) sent to the user’s e-mail address. The user can ignore this invitation in his mail client or he can accept this invitation, thus creating appropriate calendar entries in his calendar.
+</WRAP>
+
+
+<WRAP center round box 80%>
+User A plans a [[terms_and_definitions:group_activity|group activity]] and sends invitations (messages) to user B, user C and user D. User B accepts the invitation by confirming that he will participate to this group activity. User C declines the invitation whereas user D completely ignores the invitation.
+</WRAP>
+
+
+<WRAP center round box 80%>
+The [[terms_and_definitions:campaign_manager|campaign manager]] sends a message to all campaign participants the [[terms_and_definitions:campaign|campaign]] will end in five days and the he suggests to do now this and that. The campaign participants will receive this message without any need to send an answer back to the campaign manager.
+</WRAP>
+
+
+<WRAP center round box 80%>
+The campaign manager sends activity recommendations to the campaign participants. The campaign participants will see this activity recommendation and each participant can decide independently from each other if he wants to plan an activity based on this recommendation.
+</WRAP>
+
+
+<WRAP center round box 80%>
+YouPers sends to all user a message about a new [[terms_and_definitions:service|service]], a new [[terms_and_definitions:applikationen|app]], etc.
+</WRAP>
+

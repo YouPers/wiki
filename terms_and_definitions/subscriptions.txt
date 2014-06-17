@@ -1,0 +1,31 @@
+====== Subscriptions ======
+
+
+We want to provide [[terms_and_definitions:notifications|notifications]] on [[terms_and_definitions:conversations|conversations]] similar to internet forums by means of subscriptions.
+
+For subscriptions we have two basic functionalities:
+
+  * the subscription to ongoing conversations
+  * the cancellation of existing subscriptions
+
+Example for subscriptions:
+
+<WRAP center round box 80%>
+[[terms_and_definitions:user|User]] A sees that there is an ongoing conversion related to an [[terms_and_definitions:activity|activity]] recommendation issued by the [[terms_and_definitions:campaign_manager|campaign manager]]. He wants to get a notification when there are new replies in this conversation.
+</WRAP>
+
+<WRAP center round box 80%>
+The campaign manager sends an [[terms_and_definitions:activity_recommendation|activity recommendation]] to the campaign participants and wants to get notified if there is going to be a conversation on this activity recommendation.
+</WRAP>
+
+Example for subscription cancellations:
+
+<WRAP center round box 80%>
+User A invites several users to a [[terms_and_definitions:group_activity|group activity]]. One of the invitees starts a conversation. The inviter as well as the invitees automatically receive a notification on the started conversation. Each participant to this group activity can decide, if he wants to receive future updates on this conversation or not.
+</WRAP>
+
+<WRAP center round box 80%>
+All campaign participants automatically receive notifications on the started/updated conversation related to an activity recommendation issued by the campaign manager. Each user can decide, if he wants to receive future updates on this conversation or not.
+</WRAP>
+
+Special attention is needed to define the [[terms_and_definitions:defaults_for_social_interactions|social interaction defaults]]. The first example for subscriptions and the second example for subscription cancellations are mutually exclusive. The defaults will set one of the two mutually exclusive options as default.

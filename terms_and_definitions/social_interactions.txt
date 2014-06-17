@@ -1,0 +1,10 @@
+====== Social Interactions ======
+
+
+Social interactions encompass all actions within an application which involve two or more [[terms_and_definitions:user|users]]. The [[terms_and_definitions:digital_health_coach|digital health coach]] in this perspective is also considered a distinct user.
+
+We distinguish three types of social interactions, again seen from a user’s perspective in the context of an application and not in the context of real life (e.g. face to face communication):
+
+  * [[terms_and_definitions:notifications|notifications]]
+  * [[terms_and_definitions:messages|messages]]
+  * [[terms_and_definitions:conversations|conversations]] by means of message threads

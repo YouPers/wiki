@@ -1,0 +1,8 @@
+====== User Identity ======
+
+A user is identified
+
+  * by his user-id and/or by his e-mail in combination with his password, when registering or when signing in to a service.
+  * always by his first and last name within a service, when interacting with other users.
+
+It's clear that a user could enter fake first and last names. Nevertheless, we aim at convincing users to use their real names.
