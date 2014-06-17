@@ -16,7 +16,7 @@ The [[terms_and_definitions:digital_health_coach|digital health coach]] displays
 
 
 <WRAP center round box 80%>
-The user plans an [[terms_and_definitions:activity|activity]] which - based on his profile settings - causes “the system” (in most cases the [[terms_and_definitions:backend|backend]]) to create a calendar invitation (a message) sent to the user’s e-mail address. The user can ignore this invitation in his mail client or he can accept this invitation, thus creating appropriate calendar entries in his calendar.
+The user plans an [[terms_and_definitions:activity|activity]] which - based on his profile settings - causes “the system” (in most cases the [[terms_and_definitions:applikationen#backend|backend]]) to create a calendar invitation (a message) sent to the user’s e-mail address. The user can ignore this invitation in his mail client or he can accept this invitation, thus creating appropriate calendar entries in his calendar.
 </WRAP>
 
 

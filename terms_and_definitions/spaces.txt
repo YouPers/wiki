@@ -1,8 +1,8 @@
 ====== Spaces ======
 
-Space is used as a metaphor for the “place” within an application where a user does interactions with the application. Thus, space also helps to identify the degree of visibility/intimacy/privacy an object has when the object is in a specific space. As example, the object “self assessment” is always in a space which is known to the user as being private and thus only visible to him and the digital health coach. Whereas the object “personal invitation to participate to a group activity” will be in a space which is visible to the person who sends the invite as well to the one receiving it.
+Space is used as a metaphor for the “place” within an application where a user does interactions with the application. Thus, space also helps to identify the degree of visibility/intimacy/privacy an object has when the object is in a specific space. As example, the object [[terms_and_definitions:self_assessment|self assessment]] is always in a space which is known to the user as being private and thus only visible to him and the [[terms_and_definitions:digital_health_coach|digital health coach]]. Whereas the object “personal invitation to participate to a [[terms_and_definitions:group_activity|group activity]]” will be in a space which is visible to the person who sends the invite as well to the one receiving it.
 
-The spaces as perceived by the user are:
+The spaces as perceived by the [[terms_and_definitions:user|user]] are:
 
 ===== Private Space =====
 
@@ -26,11 +26,11 @@ Restricted spaces known so far:
 ==== Campaign ====
 
 
-All employees who joined a campaign share this restricted space together with the campaign manager(s) for this campaign, thus sharing objects such as
+All employees who joined a [[terms_and_definitions:campaign|campaign]] share this restricted space together with the [[terms_and_definitions:campaign_manager|campaign manager(s)]] for this campaign, thus sharing objects such as
 
   * campaign info
   * campaign statistics
-  * activity recommendations issued by the campaign manager
+  * [[terms_and_definitions:activity|activity]] recommendations issued by the campaign manager
   * news sent by the campaign manager
   * planned group activities where the planner of the group activity decided that “everybody can participate”
 
@@ -51,7 +51,7 @@ People joining the same group activity share a common restricted space where the
 ==== Caregiver / Caretaker ====
 
 
-The informal caregiver and the caretaker share a restricted space to exchange any sort of actions and information, e.g. in the context of AAL project INSPIRATION.
+The informal [[terms_and_definitions:caregiver|caregiver]] and the [[terms_and_definitions:caretaker|caretaker]] share a restricted space to exchange any sort of actions and information, e.g. in the context of AAL project INSPIRATION.
 
 ==== Examples within a restricted space ====
 
