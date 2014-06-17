@@ -1,0 +1,27 @@
+====== Defaults for social interactions ======
+
+These are defaults for social interactions and their [[terms_and_definitions:information_channels|information channels]]:
+
+===== Messages =====
+
+  * [[terms_and_definitions:messages|Messages]] sent to a user are always displayed as [[terms_and_definitions:notifications|notifications]] in the [[terms_and_definitions:application_inbox|application inbox]]. The [[terms_and_definitions:user|user]] is not able to overwrite this behavior.
+  * The user can decide, if he additionally wants to receive these messages as e-mail messages. We still need to decide, if this behavior is switched on or off by default. At a later stage we might need overwritable defaults for different types of messages (e.g. a default for invitations, one for announcements, etc.)
+  * The user can decide, if he additionally wants to receive push notifications for these messages within the mobile app. Push notifications are switched on by default. 
+
+===== Conversations =====
+
+  * The user receives notifications on updated [[terms_and_definitions:conversations|conversations]] he is subscribed to in the application inbox. He cannot overwrite this behavior.
+  * The user can decide, if he additionally wants to receive these notifications as e-mail messages. We still need to decide, if this behavior is switched on or off by default.
+  * The user can decide, if he additionally wants to receive these notifications as push notifications in within the mobile app. Push notifications are switched on by default.
+
+===== Notifications =====
+
+Notifications always relate to a message or an updated conversions, thus there are no additional defaults to the ones described for messages and conversations.
+
+<WRAP center round important 80%>
+Important messages sent by YouPers are received in all three information channels, i.e.
+  * as notifications in the application inbox
+  * as e-mail message
+  * as push notification in mobile apps.
+The user is not able to overwrite this behavior. 
+</WRAP>

@@ -1,0 +1,13 @@
+====== Information channels ======
+
+
+Looking at other platforms and mobile apps with a sharing community it seems best practice to let the recipient of an [[terms_and_definitions:social_interactions|information]] decide which channel he wants to receive information on. The sender ideally shares information out of a specific context (e.g. inviting someone to a [[terms_and_definitions:group_activity|group activity]], starting a [[terms_and_definitions:conversations|conversation]] on an activity recommendation) without caring which channel is going to be used by the recipient. So if user A invites other users to a group activity, user B might receive a push [[terms_and_definitions:notifications|notification]] whereas user C receives an e-mail and user D sees the invitation only when accessing the application and looking at the [[terms_and_definitions:application_inbox|inbox-style area]].
+
+Following channels are available
+  * inbox-style area in web app / mobile app where received information is
+    * asynchronous when the user is offline
+    * synchronous when the user is online
+  * e-mail (always asynchronous)
+  * push notification (always synchronous)
+
+For these information channels we provide [[terms_and_definitions:defaults_for_social_interactions|defaults]] which the user can modify (with some unmodifiable exceptions.
